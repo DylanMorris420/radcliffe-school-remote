@@ -1,0 +1,4 @@
+var DeploymentSettings = {
+    "deploymentType":  "rdWeb",
+    "suppressTelemetry":  false
+}
